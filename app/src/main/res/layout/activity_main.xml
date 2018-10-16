@@ -73,4 +73,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/btn_go" />
+
+    <Button
+        android:id="@+id/lang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_lang" />
 </LinearLayout>

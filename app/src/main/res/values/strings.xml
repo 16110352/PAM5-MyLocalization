@@ -10,4 +10,6 @@
     <string name="form_check">I have read and agree the terms</string>
 
     <string name="btn_go">Submit</string>
+    <string name="btn_lang">Set Language</string>
+
 </resources>
